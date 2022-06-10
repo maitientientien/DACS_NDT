@@ -12,10 +12,7 @@ import java.util.logging.Logger;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author MINH TUAN
- */
+
 public class CheckError {
       public boolean KT_SDT(String str)
       {
