@@ -9,10 +9,6 @@ import DAO.DAO;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-/**
- *
- * @author MINH TUAN
- */
 public class Tinh {
     DAO cn = new DAO();
     Statement ps;
