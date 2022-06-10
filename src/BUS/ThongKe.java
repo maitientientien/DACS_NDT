@@ -13,10 +13,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-/**
- *
- * @author MINH TUAN
- */
+
 public class ThongKe {
     Statement ps;
     ResultSet rs;
