@@ -12,10 +12,7 @@ import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author MINH TUAN
- */
+
 public class Xoa {
     Statement ps;
     ResultSet rs;
